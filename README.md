@@ -13,10 +13,10 @@ Use Androids Custom Tabs in GameMaker games!
 Opens a URL in a custom tab, applying any options provided
 
 Parameters:
-Parameter | Type | Description
- - | - | - 
-url | String | The URL to open
-options | Struct.custom_tab_options | (Optional) Options for the custom tab
+| Parameter | Type | Description |
+|  - | - | - |
+| url | String | The URL to open |
+options | Struct.custom_tab_options | (Optional) Options for the custom tab |
 
 Returns: None
 
@@ -35,23 +35,23 @@ Methods:
 Whether or not the page title should be shown. If false, the URL is shown instead
 Parameters: 
 
-Parameter | Type | Description
- - | - | -
+| Parameter | Type | Description
+| - | - | - |
 show | Boolean | Whether or not the page URL should be shown
 
 #### custom_tab_options.url_bar_hiding_enabled(enabled)
 Whether or not to hide the URL/top bar on scroll
 
-Parameter | Type | Description
- - | - | -
-enabled | Boolean | Whether or not to hide the URL/top bar on scroll
+| Parameter | Type | Description |
+| - | - | - |
+| enabled | Boolean | Whether or not to hide the URL/top bar on scroll | 
 
 #### custom_tab_options.share_enabled(enabled)
 Whether or not to show the share button in the custom tab. If unset, will use an os level default
 
-Parameter | Type | Description
- - | - | -
-enabled | Boolean | Whether or not to show the share button
+| Parameter | Type | Description |
+| - | - | - |
+| enabled | Boolean | Whether or not to show the share button |
 
 
 

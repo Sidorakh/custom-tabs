@@ -2,7 +2,7 @@
 Use Androids Custom Tabs in GameMaker games!
 
 ## Installation
-1. If you have an older version of CustomT abs installed in GM, delete the CustomT abs folder in the IDE
+1. If you have an older version of Custom Tabs installed in GM, delete the Custom Tabs folder in the IDE
 2. Download the latest YYMPS file from [Releases](https://github.com/Sidorakh/custom-tabs/releases)
 3. Drag it into the IDE
 4. Import at least `ext_custom_tabs` and `scr_custom_tabs`
